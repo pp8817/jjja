@@ -1,4 +1,4 @@
-package com.i28minutes.oops.level2.inheritance;
+ package com.i28minutes.oops.level2.inheritance;
 
 public class Person {
 
@@ -30,6 +30,7 @@ public class Person {
 		}
 		public void setPhoneNumber(String phoneNumber) {
 			this.phoneNumber = phoneNumber;
+			
 		}
 		
 		
