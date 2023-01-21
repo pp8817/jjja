@@ -1,7 +1,7 @@
 package com.i28minutes.oops.level2;
 
 public class Customer {
-	
+	//깃허브 pull 테스트
 	//state
 	private String name;
 	private Address homeAddress;
