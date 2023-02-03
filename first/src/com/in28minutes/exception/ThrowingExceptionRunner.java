@@ -1,6 +1,5 @@
 package com.in28minutes.exception;
 
-import java.net.NoRouteToHostException;
 
 
 class Amount {
